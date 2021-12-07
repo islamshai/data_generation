@@ -1,0 +1,1852 @@
+[
+  {
+    "date": "2020-11-01",
+    "transaction_amount": 856,
+    "uplift_value": 36
+  },
+  {
+    "date": "2020-11-02",
+    "transaction_amount": 675,
+    "uplift_value": 31
+  },
+  {
+    "date": "2020-11-03",
+    "transaction_amount": 955,
+    "uplift_value": 39
+  },
+  {
+    "date": "2020-11-04",
+    "transaction_amount": 959,
+    "uplift_value": 38
+  },
+  {
+    "date": "2020-11-05",
+    "transaction_amount": 644,
+    "uplift_value": 20
+  },
+  {
+    "date": "2020-11-06",
+    "transaction_amount": 617,
+    "uplift_value": 28
+  },
+  {
+    "date": "2020-11-07",
+    "transaction_amount": 830,
+    "uplift_value": 17
+  },
+  {
+    "date": "2020-11-08",
+    "transaction_amount": 868,
+    "uplift_value": 26
+  },
+  {
+    "date": "2020-11-09",
+    "transaction_amount": 950,
+    "uplift_value": 41
+  },
+  {
+    "date": "2020-11-10",
+    "transaction_amount": 782,
+    "uplift_value": 27
+  },
+  {
+    "date": "2020-11-11",
+    "transaction_amount": 889,
+    "uplift_value": 42
+  },
+  {
+    "date": "2020-11-12",
+    "transaction_amount": 633,
+    "uplift_value": 29
+  },
+  {
+    "date": "2020-11-13",
+    "transaction_amount": 955,
+    "uplift_value": 30
+  },
+  {
+    "date": "2020-11-14",
+    "transaction_amount": 784,
+    "uplift_value": 17
+  },
+  {
+    "date": "2020-11-15",
+    "transaction_amount": 744,
+    "uplift_value": 29
+  },
+  {
+    "date": "2020-11-16",
+    "transaction_amount": 960,
+    "uplift_value": 22
+  },
+  {
+    "date": "2020-11-17",
+    "transaction_amount": 746,
+    "uplift_value": 19
+  },
+  {
+    "date": "2020-11-18",
+    "transaction_amount": 607,
+    "uplift_value": 19
+  },
+  {
+    "date": "2020-11-19",
+    "transaction_amount": 926,
+    "uplift_value": 18
+  },
+  {
+    "date": "2020-11-20",
+    "transaction_amount": 625,
+    "uplift_value": 13
+  },
+  {
+    "date": "2020-11-21",
+    "transaction_amount": 753,
+    "uplift_value": 17
+  },
+  {
+    "date": "2020-11-22",
+    "transaction_amount": 921,
+    "uplift_value": 20
+  },
+  {
+    "date": "2020-11-23",
+    "transaction_amount": 654,
+    "uplift_value": 25
+  },
+  {
+    "date": "2020-11-24",
+    "transaction_amount": 746,
+    "uplift_value": 17
+  },
+  {
+    "date": "2020-11-25",
+    "transaction_amount": 754,
+    "uplift_value": 35
+  },
+  {
+    "date": "2020-11-26",
+    "transaction_amount": 833,
+    "uplift_value": 22
+  },
+  {
+    "date": "2020-11-27",
+    "transaction_amount": 897,
+    "uplift_value": 37
+  },
+  {
+    "date": "2020-11-28",
+    "transaction_amount": 648,
+    "uplift_value": 28
+  },
+  {
+    "date": "2020-11-29",
+    "transaction_amount": 648,
+    "uplift_value": 25
+  },
+  {
+    "date": "2020-11-30",
+    "transaction_amount": 924,
+    "uplift_value": 33
+  },
+  {
+    "date": "2020-12-01",
+    "transaction_amount": 703,
+    "uplift_value": 32
+  },
+  {
+    "date": "2020-12-02",
+    "transaction_amount": 833,
+    "uplift_value": 33
+  },
+  {
+    "date": "2020-12-03",
+    "transaction_amount": 637,
+    "uplift_value": 25
+  },
+  {
+    "date": "2020-12-04",
+    "transaction_amount": 629,
+    "uplift_value": 12
+  },
+  {
+    "date": "2020-12-05",
+    "transaction_amount": 847,
+    "uplift_value": 20
+  },
+  {
+    "date": "2020-12-06",
+    "transaction_amount": 612,
+    "uplift_value": 14
+  },
+  {
+    "date": "2020-12-07",
+    "transaction_amount": 697,
+    "uplift_value": 33
+  },
+  {
+    "date": "2020-12-08",
+    "transaction_amount": 663,
+    "uplift_value": 21
+  },
+  {
+    "date": "2020-12-09",
+    "transaction_amount": 803,
+    "uplift_value": 30
+  },
+  {
+    "date": "2020-12-10",
+    "transaction_amount": 795,
+    "uplift_value": 39
+  },
+  {
+    "date": "2020-12-11",
+    "transaction_amount": 777,
+    "uplift_value": 19
+  },
+  {
+    "date": "2020-12-12",
+    "transaction_amount": 679,
+    "uplift_value": 20
+  },
+  {
+    "date": "2020-12-13",
+    "transaction_amount": 935,
+    "uplift_value": 28
+  },
+  {
+    "date": "2020-12-14",
+    "transaction_amount": 646,
+    "uplift_value": 14
+  },
+  {
+    "date": "2020-12-15",
+    "transaction_amount": 600,
+    "uplift_value": 12
+  },
+  {
+    "date": "2020-12-16",
+    "transaction_amount": 816,
+    "uplift_value": 23
+  },
+  {
+    "date": "2020-12-17",
+    "transaction_amount": 934,
+    "uplift_value": 25
+  },
+  {
+    "date": "2020-12-18",
+    "transaction_amount": 954,
+    "uplift_value": 19
+  },
+  {
+    "date": "2020-12-19",
+    "transaction_amount": 930,
+    "uplift_value": 20
+  },
+  {
+    "date": "2020-12-20",
+    "transaction_amount": 613,
+    "uplift_value": 23
+  },
+  {
+    "date": "2020-12-21",
+    "transaction_amount": 677,
+    "uplift_value": 15
+  },
+  {
+    "date": "2020-12-22",
+    "transaction_amount": 856,
+    "uplift_value": 29
+  },
+  {
+    "date": "2020-12-23",
+    "transaction_amount": 960,
+    "uplift_value": 44
+  },
+  {
+    "date": "2020-12-24",
+    "transaction_amount": 926,
+    "uplift_value": 34
+  },
+  {
+    "date": "2020-12-25",
+    "transaction_amount": 768,
+    "uplift_value": 25
+  },
+  {
+    "date": "2020-12-26",
+    "transaction_amount": 800,
+    "uplift_value": 39
+  },
+  {
+    "date": "2020-12-27",
+    "transaction_amount": 829,
+    "uplift_value": 35
+  },
+  {
+    "date": "2020-12-28",
+    "transaction_amount": 700,
+    "uplift_value": 25
+  },
+  {
+    "date": "2020-12-29",
+    "transaction_amount": 647,
+    "uplift_value": 20
+  },
+  {
+    "date": "2020-12-30",
+    "transaction_amount": 826,
+    "uplift_value": 19
+  },
+  {
+    "date": "2020-12-31",
+    "transaction_amount": 757,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-01-01",
+    "transaction_amount": 752,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-01-02",
+    "transaction_amount": 771,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-01-03",
+    "transaction_amount": 740,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-01-04",
+    "transaction_amount": 767,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-01-05",
+    "transaction_amount": 956,
+    "uplift_value": 38
+  },
+  {
+    "date": "2021-01-06",
+    "transaction_amount": 780,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-01-07",
+    "transaction_amount": 658,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-01-08",
+    "transaction_amount": 810,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-01-09",
+    "transaction_amount": 622,
+    "uplift_value": 13
+  },
+  {
+    "date": "2021-01-10",
+    "transaction_amount": 784,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-01-11",
+    "transaction_amount": 604,
+    "uplift_value": 14
+  },
+  {
+    "date": "2021-01-12",
+    "transaction_amount": 741,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-01-13",
+    "transaction_amount": 856,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-01-14",
+    "transaction_amount": 851,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-01-15",
+    "transaction_amount": 836,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-01-16",
+    "transaction_amount": 804,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-01-17",
+    "transaction_amount": 777,
+    "uplift_value": 16
+  },
+  {
+    "date": "2021-01-18",
+    "transaction_amount": 772,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-01-19",
+    "transaction_amount": 755,
+    "uplift_value": 36
+  },
+  {
+    "date": "2021-01-20",
+    "transaction_amount": 712,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-01-21",
+    "transaction_amount": 824,
+    "uplift_value": 36
+  },
+  {
+    "date": "2021-01-22",
+    "transaction_amount": 642,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-01-23",
+    "transaction_amount": 712,
+    "uplift_value": 29
+  },
+  {
+    "date": "2021-01-24",
+    "transaction_amount": 907,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-01-25",
+    "transaction_amount": 871,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-01-26",
+    "transaction_amount": 958,
+    "uplift_value": 41
+  },
+  {
+    "date": "2021-01-27",
+    "transaction_amount": 783,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-01-28",
+    "transaction_amount": 619,
+    "uplift_value": 16
+  },
+  {
+    "date": "2021-01-29",
+    "transaction_amount": 926,
+    "uplift_value": 39
+  },
+  {
+    "date": "2021-01-30",
+    "transaction_amount": 800,
+    "uplift_value": 29
+  },
+  {
+    "date": "2021-01-31",
+    "transaction_amount": 918,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-02-01",
+    "transaction_amount": 829,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-02-02",
+    "transaction_amount": 659,
+    "uplift_value": 15
+  },
+  {
+    "date": "2021-02-03",
+    "transaction_amount": 692,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-02-04",
+    "transaction_amount": 620,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-02-05",
+    "transaction_amount": 605,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-02-06",
+    "transaction_amount": 736,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-02-07",
+    "transaction_amount": 767,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-02-08",
+    "transaction_amount": 900,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-02-09",
+    "transaction_amount": 624,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-02-10",
+    "transaction_amount": 843,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-02-11",
+    "transaction_amount": 726,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-02-12",
+    "transaction_amount": 759,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-02-13",
+    "transaction_amount": 744,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-02-14",
+    "transaction_amount": 656,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-02-15",
+    "transaction_amount": 927,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-02-16",
+    "transaction_amount": 628,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-02-17",
+    "transaction_amount": 748,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-02-18",
+    "transaction_amount": 836,
+    "uplift_value": 33
+  },
+  {
+    "date": "2021-02-19",
+    "transaction_amount": 903,
+    "uplift_value": 37
+  },
+  {
+    "date": "2021-02-20",
+    "transaction_amount": 684,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-02-21",
+    "transaction_amount": 740,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-02-22",
+    "transaction_amount": 956,
+    "uplift_value": 43
+  },
+  {
+    "date": "2021-02-23",
+    "transaction_amount": 710,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-02-24",
+    "transaction_amount": 660,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-02-25",
+    "transaction_amount": 746,
+    "uplift_value": 33
+  },
+  {
+    "date": "2021-02-26",
+    "transaction_amount": 755,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-02-27",
+    "transaction_amount": 609,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-02-28",
+    "transaction_amount": 658,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-03-01",
+    "transaction_amount": 680,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-03-02",
+    "transaction_amount": 738,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-03-03",
+    "transaction_amount": 728,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-03-04",
+    "transaction_amount": 843,
+    "uplift_value": 36
+  },
+  {
+    "date": "2021-03-05",
+    "transaction_amount": 855,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-03-06",
+    "transaction_amount": 756,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-03-07",
+    "transaction_amount": 614,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-03-08",
+    "transaction_amount": 745,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-03-09",
+    "transaction_amount": 702,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-03-10",
+    "transaction_amount": 702,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-03-11",
+    "transaction_amount": 676,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-03-12",
+    "transaction_amount": 947,
+    "uplift_value": 36
+  },
+  {
+    "date": "2021-03-13",
+    "transaction_amount": 705,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-03-14",
+    "transaction_amount": 735,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-03-15",
+    "transaction_amount": 696,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-03-16",
+    "transaction_amount": 869,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-03-17",
+    "transaction_amount": 909,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-03-18",
+    "transaction_amount": 823,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-03-19",
+    "transaction_amount": 814,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-03-20",
+    "transaction_amount": 952,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-03-21",
+    "transaction_amount": 824,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-03-22",
+    "transaction_amount": 906,
+    "uplift_value": 36
+  },
+  {
+    "date": "2021-03-23",
+    "transaction_amount": 628,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-03-24",
+    "transaction_amount": 633,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-03-25",
+    "transaction_amount": 832,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-03-26",
+    "transaction_amount": 943,
+    "uplift_value": 43
+  },
+  {
+    "date": "2021-03-27",
+    "transaction_amount": 898,
+    "uplift_value": 42
+  },
+  {
+    "date": "2021-03-28",
+    "transaction_amount": 771,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-03-29",
+    "transaction_amount": 710,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-03-30",
+    "transaction_amount": 759,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-03-31",
+    "transaction_amount": 740,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-04-01",
+    "transaction_amount": 622,
+    "uplift_value": 16
+  },
+  {
+    "date": "2021-04-02",
+    "transaction_amount": 714,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-04-03",
+    "transaction_amount": 764,
+    "uplift_value": 36
+  },
+  {
+    "date": "2021-04-04",
+    "transaction_amount": 952,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-04-05",
+    "transaction_amount": 676,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-04-06",
+    "transaction_amount": 903,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-04-07",
+    "transaction_amount": 695,
+    "uplift_value": 33
+  },
+  {
+    "date": "2021-04-08",
+    "transaction_amount": 714,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-04-09",
+    "transaction_amount": 701,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-04-10",
+    "transaction_amount": 865,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-04-11",
+    "transaction_amount": 894,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-04-12",
+    "transaction_amount": 652,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-04-13",
+    "transaction_amount": 846,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-04-14",
+    "transaction_amount": 650,
+    "uplift_value": 15
+  },
+  {
+    "date": "2021-04-15",
+    "transaction_amount": 608,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-04-16",
+    "transaction_amount": 712,
+    "uplift_value": 16
+  },
+  {
+    "date": "2021-04-17",
+    "transaction_amount": 878,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-04-18",
+    "transaction_amount": 878,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-04-19",
+    "transaction_amount": 794,
+    "uplift_value": 33
+  },
+  {
+    "date": "2021-04-20",
+    "transaction_amount": 838,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-04-21",
+    "transaction_amount": 725,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-04-22",
+    "transaction_amount": 894,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-04-23",
+    "transaction_amount": 752,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-04-24",
+    "transaction_amount": 949,
+    "uplift_value": 38
+  },
+  {
+    "date": "2021-04-25",
+    "transaction_amount": 633,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-04-26",
+    "transaction_amount": 937,
+    "uplift_value": 44
+  },
+  {
+    "date": "2021-04-27",
+    "transaction_amount": 695,
+    "uplift_value": 15
+  },
+  {
+    "date": "2021-04-28",
+    "transaction_amount": 672,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-04-29",
+    "transaction_amount": 791,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-04-30",
+    "transaction_amount": 626,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-05-01",
+    "transaction_amount": 913,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-05-02",
+    "transaction_amount": 831,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-05-03",
+    "transaction_amount": 605,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-05-04",
+    "transaction_amount": 914,
+    "uplift_value": 33
+  },
+  {
+    "date": "2021-05-05",
+    "transaction_amount": 657,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-05-06",
+    "transaction_amount": 711,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-05-07",
+    "transaction_amount": 611,
+    "uplift_value": 14
+  },
+  {
+    "date": "2021-05-08",
+    "transaction_amount": 642,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-05-09",
+    "transaction_amount": 691,
+    "uplift_value": 15
+  },
+  {
+    "date": "2021-05-10",
+    "transaction_amount": 655,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-05-11",
+    "transaction_amount": 884,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-05-12",
+    "transaction_amount": 692,
+    "uplift_value": 14
+  },
+  {
+    "date": "2021-05-13",
+    "transaction_amount": 660,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-05-14",
+    "transaction_amount": 601,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-05-15",
+    "transaction_amount": 887,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-05-16",
+    "transaction_amount": 690,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-05-17",
+    "transaction_amount": 767,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-05-18",
+    "transaction_amount": 711,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-05-19",
+    "transaction_amount": 710,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-05-20",
+    "transaction_amount": 612,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-05-21",
+    "transaction_amount": 855,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-05-22",
+    "transaction_amount": 950,
+    "uplift_value": 40
+  },
+  {
+    "date": "2021-05-23",
+    "transaction_amount": 768,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-05-24",
+    "transaction_amount": 669,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-05-25",
+    "transaction_amount": 662,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-05-26",
+    "transaction_amount": 623,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-05-27",
+    "transaction_amount": 756,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-05-28",
+    "transaction_amount": 605,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-05-29",
+    "transaction_amount": 881,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-05-30",
+    "transaction_amount": 708,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-05-31",
+    "transaction_amount": 634,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-06-01",
+    "transaction_amount": 687,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-06-02",
+    "transaction_amount": 760,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-06-03",
+    "transaction_amount": 614,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-06-04",
+    "transaction_amount": 864,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-06-05",
+    "transaction_amount": 677,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-06-06",
+    "transaction_amount": 751,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-06-07",
+    "transaction_amount": 665,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-06-08",
+    "transaction_amount": 699,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-06-09",
+    "transaction_amount": 818,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-06-10",
+    "transaction_amount": 859,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-06-11",
+    "transaction_amount": 748,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-06-12",
+    "transaction_amount": 958,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-06-13",
+    "transaction_amount": 872,
+    "uplift_value": 37
+  },
+  {
+    "date": "2021-06-14",
+    "transaction_amount": 760,
+    "uplift_value": 16
+  },
+  {
+    "date": "2021-06-15",
+    "transaction_amount": 725,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-06-16",
+    "transaction_amount": 819,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-06-17",
+    "transaction_amount": 635,
+    "uplift_value": 13
+  },
+  {
+    "date": "2021-06-18",
+    "transaction_amount": 652,
+    "uplift_value": 15
+  },
+  {
+    "date": "2021-06-19",
+    "transaction_amount": 890,
+    "uplift_value": 41
+  },
+  {
+    "date": "2021-06-20",
+    "transaction_amount": 678,
+    "uplift_value": 13
+  },
+  {
+    "date": "2021-06-21",
+    "transaction_amount": 714,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-06-22",
+    "transaction_amount": 674,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-06-23",
+    "transaction_amount": 788,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-06-24",
+    "transaction_amount": 914,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-06-25",
+    "transaction_amount": 935,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-06-26",
+    "transaction_amount": 887,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-06-27",
+    "transaction_amount": 868,
+    "uplift_value": 37
+  },
+  {
+    "date": "2021-06-28",
+    "transaction_amount": 876,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-06-29",
+    "transaction_amount": 802,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-06-30",
+    "transaction_amount": 800,
+    "uplift_value": 37
+  },
+  {
+    "date": "2021-07-01",
+    "transaction_amount": 869,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-07-02",
+    "transaction_amount": 780,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-07-03",
+    "transaction_amount": 678,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-07-04",
+    "transaction_amount": 956,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-07-05",
+    "transaction_amount": 787,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-07-06",
+    "transaction_amount": 615,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-07-07",
+    "transaction_amount": 903,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-07-08",
+    "transaction_amount": 720,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-07-09",
+    "transaction_amount": 862,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-07-10",
+    "transaction_amount": 776,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-07-11",
+    "transaction_amount": 886,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-07-12",
+    "transaction_amount": 959,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-07-13",
+    "transaction_amount": 626,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-07-14",
+    "transaction_amount": 612,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-07-15",
+    "transaction_amount": 949,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-07-16",
+    "transaction_amount": 795,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-07-17",
+    "transaction_amount": 872,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-07-18",
+    "transaction_amount": 803,
+    "uplift_value": 39
+  },
+  {
+    "date": "2021-07-19",
+    "transaction_amount": 846,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-07-20",
+    "transaction_amount": 959,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-07-21",
+    "transaction_amount": 872,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-07-22",
+    "transaction_amount": 613,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-07-23",
+    "transaction_amount": 703,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-07-24",
+    "transaction_amount": 945,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-07-25",
+    "transaction_amount": 808,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-07-26",
+    "transaction_amount": 842,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-07-27",
+    "transaction_amount": 863,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-07-28",
+    "transaction_amount": 928,
+    "uplift_value": 40
+  },
+  {
+    "date": "2021-07-29",
+    "transaction_amount": 754,
+    "uplift_value": 36
+  },
+  {
+    "date": "2021-07-30",
+    "transaction_amount": 758,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-07-31",
+    "transaction_amount": 793,
+    "uplift_value": 39
+  },
+  {
+    "date": "2021-08-01",
+    "transaction_amount": 640,
+    "uplift_value": 18
+  },
+  {
+    "date": "2021-08-02",
+    "transaction_amount": 607,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-08-03",
+    "transaction_amount": 696,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-08-04",
+    "transaction_amount": 681,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-08-05",
+    "transaction_amount": 926,
+    "uplift_value": 45
+  },
+  {
+    "date": "2021-08-06",
+    "transaction_amount": 709,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-08-07",
+    "transaction_amount": 806,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-08-08",
+    "transaction_amount": 714,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-08-09",
+    "transaction_amount": 817,
+    "uplift_value": 38
+  },
+  {
+    "date": "2021-08-10",
+    "transaction_amount": 951,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-08-11",
+    "transaction_amount": 696,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-08-12",
+    "transaction_amount": 939,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-08-13",
+    "transaction_amount": 783,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-08-14",
+    "transaction_amount": 644,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-08-15",
+    "transaction_amount": 875,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-08-16",
+    "transaction_amount": 933,
+    "uplift_value": 43
+  },
+  {
+    "date": "2021-08-17",
+    "transaction_amount": 944,
+    "uplift_value": 45
+  },
+  {
+    "date": "2021-08-18",
+    "transaction_amount": 798,
+    "uplift_value": 21
+  },
+  {
+    "date": "2021-08-19",
+    "transaction_amount": 833,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-08-20",
+    "transaction_amount": 775,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-08-21",
+    "transaction_amount": 871,
+    "uplift_value": 38
+  },
+  {
+    "date": "2021-08-22",
+    "transaction_amount": 778,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-08-23",
+    "transaction_amount": 736,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-08-24",
+    "transaction_amount": 908,
+    "uplift_value": 44
+  },
+  {
+    "date": "2021-08-25",
+    "transaction_amount": 854,
+    "uplift_value": 38
+  },
+  {
+    "date": "2021-08-26",
+    "transaction_amount": 691,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-08-27",
+    "transaction_amount": 792,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-08-28",
+    "transaction_amount": 655,
+    "uplift_value": 13
+  },
+  {
+    "date": "2021-08-29",
+    "transaction_amount": 802,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-08-30",
+    "transaction_amount": 956,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-08-31",
+    "transaction_amount": 938,
+    "uplift_value": 44
+  },
+  {
+    "date": "2021-09-01",
+    "transaction_amount": 671,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-09-02",
+    "transaction_amount": 909,
+    "uplift_value": 38
+  },
+  {
+    "date": "2021-09-03",
+    "transaction_amount": 641,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-09-04",
+    "transaction_amount": 788,
+    "uplift_value": 29
+  },
+  {
+    "date": "2021-09-05",
+    "transaction_amount": 619,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-09-06",
+    "transaction_amount": 739,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-09-07",
+    "transaction_amount": 816,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-09-08",
+    "transaction_amount": 729,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-09-09",
+    "transaction_amount": 868,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-09-10",
+    "transaction_amount": 703,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-09-11",
+    "transaction_amount": 614,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-09-12",
+    "transaction_amount": 670,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-09-13",
+    "transaction_amount": 911,
+    "uplift_value": 38
+  },
+  {
+    "date": "2021-09-14",
+    "transaction_amount": 769,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-09-15",
+    "transaction_amount": 628,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-09-16",
+    "transaction_amount": 875,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-09-17",
+    "transaction_amount": 709,
+    "uplift_value": 27
+  },
+  {
+    "date": "2021-09-18",
+    "transaction_amount": 609,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-09-19",
+    "transaction_amount": 644,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-09-20",
+    "transaction_amount": 605,
+    "uplift_value": 15
+  },
+  {
+    "date": "2021-09-21",
+    "transaction_amount": 897,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-09-22",
+    "transaction_amount": 861,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-09-23",
+    "transaction_amount": 659,
+    "uplift_value": 14
+  },
+  {
+    "date": "2021-09-24",
+    "transaction_amount": 917,
+    "uplift_value": 43
+  },
+  {
+    "date": "2021-09-25",
+    "transaction_amount": 654,
+    "uplift_value": 16
+  },
+  {
+    "date": "2021-09-26",
+    "transaction_amount": 927,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-09-27",
+    "transaction_amount": 956,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-09-28",
+    "transaction_amount": 738,
+    "uplift_value": 33
+  },
+  {
+    "date": "2021-09-29",
+    "transaction_amount": 909,
+    "uplift_value": 41
+  },
+  {
+    "date": "2021-09-30",
+    "transaction_amount": 853,
+    "uplift_value": 41
+  },
+  {
+    "date": "2021-10-01",
+    "transaction_amount": 695,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-10-02",
+    "transaction_amount": 678,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-10-03",
+    "transaction_amount": 630,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-10-04",
+    "transaction_amount": 954,
+    "uplift_value": 24
+  },
+  {
+    "date": "2021-10-05",
+    "transaction_amount": 886,
+    "uplift_value": 44
+  },
+  {
+    "date": "2021-10-06",
+    "transaction_amount": 738,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-10-07",
+    "transaction_amount": 743,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-10-08",
+    "transaction_amount": 613,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-10-09",
+    "transaction_amount": 669,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-10-10",
+    "transaction_amount": 769,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-10-11",
+    "transaction_amount": 630,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-10-12",
+    "transaction_amount": 793,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-10-13",
+    "transaction_amount": 773,
+    "uplift_value": 36
+  },
+  {
+    "date": "2021-10-14",
+    "transaction_amount": 933,
+    "uplift_value": 28
+  },
+  {
+    "date": "2021-10-15",
+    "transaction_amount": 879,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-10-16",
+    "transaction_amount": 699,
+    "uplift_value": 14
+  },
+  {
+    "date": "2021-10-17",
+    "transaction_amount": 632,
+    "uplift_value": 22
+  },
+  {
+    "date": "2021-10-18",
+    "transaction_amount": 817,
+    "uplift_value": 20
+  },
+  {
+    "date": "2021-10-19",
+    "transaction_amount": 866,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-10-20",
+    "transaction_amount": 737,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-10-21",
+    "transaction_amount": 809,
+    "uplift_value": 34
+  },
+  {
+    "date": "2021-10-22",
+    "transaction_amount": 652,
+    "uplift_value": 32
+  },
+  {
+    "date": "2021-10-23",
+    "transaction_amount": 915,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-10-24",
+    "transaction_amount": 794,
+    "uplift_value": 17
+  },
+  {
+    "date": "2021-10-25",
+    "transaction_amount": 637,
+    "uplift_value": 12
+  },
+  {
+    "date": "2021-10-26",
+    "transaction_amount": 748,
+    "uplift_value": 19
+  },
+  {
+    "date": "2021-10-27",
+    "transaction_amount": 739,
+    "uplift_value": 35
+  },
+  {
+    "date": "2021-10-28",
+    "transaction_amount": 694,
+    "uplift_value": 31
+  },
+  {
+    "date": "2021-10-29",
+    "transaction_amount": 912,
+    "uplift_value": 23
+  },
+  {
+    "date": "2021-10-30",
+    "transaction_amount": 673,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-10-31",
+    "transaction_amount": 893,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-11-01",
+    "transaction_amount": 843,
+    "uplift_value": 39
+  },
+  {
+    "date": "2021-11-02",
+    "transaction_amount": 951,
+    "uplift_value": 26
+  },
+  {
+    "date": "2021-11-03",
+    "transaction_amount": 627,
+    "uplift_value": 25
+  },
+  {
+    "date": "2021-11-04",
+    "transaction_amount": 911,
+    "uplift_value": 30
+  },
+  {
+    "date": "2021-11-05",
+    "transaction_amount": 687,
+    "uplift_value": 22
+  }
+]
