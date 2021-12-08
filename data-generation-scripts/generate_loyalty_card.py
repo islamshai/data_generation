@@ -27,8 +27,8 @@ data = data.drop(data[data['purchase_frequency.channel'] == 'online visit'].inde
 df = data.groupby('purchase_frequency.date', as_index=False)['purchase_frequency.amount_spent'].size()
 print('sss')
 df.columns = ['date', 'num_customers']
-df['customers_without_loyalty_card'] = df['num_customers'] * .85
-df['stamps'] = df['num_customers'] * .30
+df['customers_without_loyalty_card'] = df['num_customers'] * .93
+df['stamps'] = df['num_customers'] * .20
 df['cards_completed'] = df['num_customers'] * .09
 df['rewards_claimed'] = df['num_customers'] * .05
 
@@ -39,4 +39,4 @@ df['rewards_claimed'] = df['rewards_claimed'].astype('int32')
 df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
 df.style.format({"date": lambda t: t.strftime("%Y-%m-%d")})
 
-df.to_json('loyalty_cards_new.json', orient='records')
+df.to_json('loyalty_cards.json', orient='records')

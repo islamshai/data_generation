@@ -55,9 +55,12 @@ def get_purchase_frequency(a):
     range_number = random.randint(1, 30)
     purchase = []
     for i in range(range_number):
-        channel = random.choice(['online visit', 'online trx', 'offline trx'])
-        if range_number < 7:
+        if i < 2:
+            channel = 'offline trx'
+        elif 1 < i < 7:
             channel = random.choice(['online trx', 'offline trx'])
+        else:
+            channel = random.choice(['online visit', 'online trx', 'offline trx'])
 
         amount = random.randint(7, 70)
         if channel == 'online visit':
